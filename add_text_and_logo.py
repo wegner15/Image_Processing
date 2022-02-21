@@ -127,7 +127,7 @@ def main(directory, target_directory):
         # setup font type
         font_style = {FONT_QUOTE: "Roboto-Bold.ttf", FONT_QUOTED_BY: "Roboto-Bold.ttf"}
 
-        main_text = "This is a sample main text that can be used on the image"
+        main_text = "Any text can be added to the image"
 
         subtext = "mysite.com #subtext"
 
