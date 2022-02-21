@@ -38,7 +38,7 @@ def download_images(number_of_images, target_directory="downloaded_images"):
         open(file_name, 'wb').write(response.content)
 
 
-# directory = "expert help"
+directory = "Sample Processed Images"
 # add_text_and_logo.main("processed_" + directory, "D:/My Code/images and processed/Term paper")
 # quotes_option.main("processed_research_paper", "research paper")
 """for directory in directories:
